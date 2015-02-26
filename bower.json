@@ -1,0 +1,25 @@
+{
+  "name": "EDMvsx",
+  "version": "0.0.1",
+  "authors": [
+    "Luis Iván <me@luisivan.net>"
+  ],
+  "description": "Music visualizer for EDM",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "edm"
+  ],
+  "license": "GPLv3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "color-thief": "*"
+  }
+}
